@@ -1,0 +1,51 @@
+body{
+  background-color: #EAEBEE;
+  font-family: 'Playball';font-size: 22px;
+}
+
+
+/* Change the link color on hover */
+ a:hover {
+  background-color: rgb(9, 123, 245);
+  color: white;
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-bottomright: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+}
+a{
+    color: white;
+}
+
+.movefloat{
+  float: left;
+}
+.navbg {background-color:#82BFFF
+}
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:  rgb(188, 213, 246);
+   color: white;
+   text-align: center;
+}
+.vertical-center {
+  margin-left: 45%;
+  margin-right: 45%
+  
+}
+.btncolor{
+  background-color:#82BFFF
+
+}
+.clearfix {
+  overflow: auto;
+}
+.aboutImg {
+  float: left;
+}
+
